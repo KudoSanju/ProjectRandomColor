@@ -13,6 +13,6 @@ function changeColor() {
   
 
 
-  console.log('Button clicked!'); // feel free to change/delete this line
+  console.log('Button clicked and see magic!'); // feel free to change/delete this line
 }
 
